@@ -9,4 +9,5 @@
   [Reddit](https://www.reddit.com/user/scjoaoantonio)
   [Twitch](https://www.twitch.tv/scjoaoantonio)
   [Youtube](https://www.youtube.com/user/NotsuruMine)
+  [Instagram](https://www.instagram.com/scjoaoantonio/)
 - 🔰 Hobbies : Soccer ⚽ | Games 🎮 | Podcast 🎧
