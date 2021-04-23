@@ -11,4 +11,3 @@
   [Youtube](https://www.youtube.com/user/NotsuruMine)
   [Instagram](https://www.instagram.com/scjoaoantonio/)
 - 🔰 Hobbies : Soccer ⚽ | Games 🎮 | Podcast 🎧
-- ![Profile Views](https://komarev.com/ghpvc/?username=scjoaoantonio)
