@@ -6,7 +6,7 @@
 - 🔰 I'm currently studying
 - 🔰 I’m currently learning web design
 - 🔰 How to reach me:
-  [LinkedIn](https://www.linkedin.com/in/joão-antônio-santos-carvalho-473365211/)
+  [LinkedIn](https://www.linkedin.com/in/scjoaoantonio/)
   [Instagram](https://www.instagram.com/scjoaoantonio/)
   [Reddit](https://www.reddit.com/user/scjoaoantonio)
   [Twitch](https://www.twitch.tv/scjoaoantonio)
