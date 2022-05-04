@@ -1,5 +1,5 @@
 <div align="center">
-  <h1> Hi there 👋 I'm João Antônio, nice to meet you!</h1>
+  <h1> Opaa sou João Antônio, nice to meet you</h1>
   <h4> 🔰 Computer science student, currently learning web design 🔰</h4>
 </div>
 <div align="center">
@@ -25,5 +25,5 @@
   ##
 
 <div align="center">
-   👨‍💻 All of my projects are available at https://scjoaoantonio.github.io/portfolio/
+   👨‍💻 All of my projects are available in my [Portfolio](https://scjoaoantonio.github.io/portfolio/)
 </div>
