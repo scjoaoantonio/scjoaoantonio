@@ -25,5 +25,6 @@
   ##
 
 <div align="center">
-   👨‍💻 All of my projects are available in my [Portfolio](https://scjoaoantonio.github.io/portfolio/)
+  👨‍💻 All of my projects are available in my
+  <a href="https://scjoaoantonio.github.io/portfolio/" target="_blank">Portfolio</a>
 </div>
