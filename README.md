@@ -27,6 +27,7 @@
   ##
 
 <div align="center">
+  <h3>Talk is easy, show me the code</h3>
   👨‍💻 All of my projects are available in my
   <a href="https://scjoaoantonio.github.io/portfolio/" target="_blank">Portfolio</a>
 </div>
