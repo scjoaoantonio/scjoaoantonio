@@ -1,7 +1,7 @@
 <div align="center">
   <h1> Opaa! I'm João Antônio, nice to meet you</h1>
   <h4> 🔰 Computer science student, currently learning web design 🔰</h4>
-
+<!--
 </div>
 <div align="center">
   <a href="https://github.com/scjoaoantonio">
@@ -19,7 +19,7 @@
   <a href = "mailto:joaoasccc@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 
 </div>
-
+-->
   <div align="center">
   <h3 align="center">Languages, Tools and Frameworks:</h3>
 <p align="center"> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> 
