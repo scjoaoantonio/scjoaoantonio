@@ -1,11 +1,11 @@
 <div align="center">
   <h1> Opaa! I'm João Antônio, nice to meet you</h1>
-  <h4> 🔰 Computer science student, currently learning web design 🔰</h4>
+  <h4> 🔰 Computer Science Student 🔰</h4>
 
 </div>
 <div align="center">
   <a href="https://github.com/scjoaoantonio">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=scjoaoantonio&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+  <!--<img height="180em" src="https://github-readme-stats.vercel.app/api?username=scjoaoantonio&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>-->
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=scjoaoantonio&layout=compact&langs_count=7&theme=dark"/>
 </div>
   
@@ -32,6 +32,6 @@
 
 <div align="center">
   <h3>Talk is easy, show me the code</h3>
-  👨‍💻 All of my projects are available in my
-  <a href="https://scjoaoantonio.github.io/portfolio/" target="_blank">Portfolio</a>
+  🔰 All of my projects are available in my
+  <a href="https://scjoaoantonio.github.io/portfolio/" target="_blank">Portfolio</a> 🔰 
 </div>
