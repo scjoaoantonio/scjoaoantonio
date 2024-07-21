@@ -3,21 +3,17 @@
 WELCOME TO MY PROFILE <img width="30px"  src="https://i.pinimg.com/originals/8e/9d/d7/8e9dd70bb51ac0bf4a54977ca0083563.gif">
    <!-- 
  <br/>
-I'm João Antônio, I study Computer Science and Web Development -->
-  
-<img src="https://i.gifer.com/QqPl.gif">
-
+I'm João Antônio, I study Computer Science and Web Development 
+<img src="https://i.gifer.com/QqPl.gif">-->
 <br/>
 <img width="30px"  src="https://i.pinimg.com/originals/8e/9d/d7/8e9dd70bb51ac0bf4a54977ca0083563.gif">
-<a href="https://scjoaoantonio.vercel.app/">  Portfolio </a>
+<a target="_blank" href="https://scjoaoantonio.vercel.app/">my works</a>
 <img width="30px"  src="https://i.pinimg.com/originals/8e/9d/d7/8e9dd70bb51ac0bf4a54977ca0083563.gif">
-
+   
 <p align="center">
 <div style="display: inline_block;margin-top: 30px"><br>
-  <img align="center" alt="joker" height="150" style="margin-top: -40px;border-radius:50px;"
-    src="https://i.pinimg.com/originals/1b/9f/c7/1b9fc7e4079c3835ab95c64fb46928f4.png">
+   <img align="center" alt="bat" height="200" style="margin-top: -40px;border-radius:50px;" src="https://i.ibb.co/1MGbtD0/batandjoker.png" alt="d920565c-26e4-4058-a0e3-7bb802b44226-removebg-preview" border="0">
  </div>
-
 
    <!--
   <a href="https://komarev.com/ghpvc/?username=scjoaoantonio&label=Profile%20views&color=0e75b6&style=for-the-badge">
@@ -99,27 +95,13 @@ I'm João Antônio, I study Computer Science and Web Development -->
     <img height='25em' src="https://img.shields.io/badge/Unity-100000?style=for-the-badge&logo=unity&logoColor=white" />
     <img height='25em' src="https://img.shields.io/badge/Amazon_AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white" />-->
   </p>
-
+<div align="center">
 <h1 font-weight="bold"></h1>
-<div align='center'>
-  <img alt="stats" height="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=scjoaoantonio&layout=compact&langs_count=7&theme=dark">
-    <!-- 
-  <br/>
-  <a href="https://github.com/scjoaoantonio/github-readme-stats#gh-dark-mode-only">
-    <img src="https://github-readme-stats.vercel.app/api?username=scjoaoantonio&show_icons=true&theme=dark&hide=contribs&rank_icon=github#gh-dark-mode-only" alt="GitHub stats-dark" />
-  </a>
-
-  <a href="#">
-    <img  src="https://github-profile-trophy.vercel.app/?username=scjoaoantonio&theme=darkhub&row=1&column=6" alt="trophy">
-  </a>
-  <br/>
-  <a href="https://awesome-github-stats.azurewebsites.net/index.html??cardType=level&theme=dark&preferLogin=false">
-    <img height="150em" alt="scjoaoantonio's GitHub Stats" src="https://awesome-github-stats.azurewebsites.net/user-stats/scjoaoantonio?cardType=level&theme=dark&preferLogin=false" />
-  </a>
-
-  </a>
-</div>
--->
+  <img align="center" alt="joker" height="200" style="border-radius:50px;"
+    src="https://i.pinimg.com/originals/1b/9f/c7/1b9fc7e4079c3835ab95c64fb46928f4.png"/>
+  <img align="center" alt="stats" height="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=scjoaoantonio&layout=compact&langs_count=7&theme=dark">
+<img align="center" alt="bat" height="200" style="margin-left: 30px;border-radius:50px;" src="https://i.ibb.co/B2dm11Z/68747470733a2f2f692e70696e696d672e636f6d2f6f726967696e616c732f31622f39662f63372f31623966633765343037.png" alt="pngimg-com-batman-PNG80-1" border="0">
+<div/>
 <br/>
 
   
