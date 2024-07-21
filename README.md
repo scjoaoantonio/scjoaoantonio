@@ -1,6 +1,6 @@
 <h2 align="center" font-weight="bold">
 <img width="30px"  src="https://i.pinimg.com/originals/8e/9d/d7/8e9dd70bb51ac0bf4a54977ca0083563.gif">
-WELCOME TO MY PROFILE <img width="30px"  src="https://i.pinimg.com/originals/8e/9d/d7/8e9dd70bb51ac0bf4a54977ca0083563.gif"> <br/>
+WELCOME TO MY PROFILE <img width="30px"  src="https://i.pinimg.com/originals/8e/9d/d7/8e9dd70bb51ac0bf4a54977ca0083563.gif">
    <!-- 
  <br/>
 I'm João Antônio, I study Computer Science and Web Development -->
@@ -8,9 +8,35 @@ I'm João Antônio, I study Computer Science and Web Development -->
 <img src="https://i.gifer.com/QqPl.gif">
 
 <br/>
-
+<img width="30px"  src="https://i.pinimg.com/originals/8e/9d/d7/8e9dd70bb51ac0bf4a54977ca0083563.gif">
 <a href="https://scjoaoantonio.vercel.app/">  Portfolio </a>
+<img width="30px"  src="https://i.pinimg.com/originals/8e/9d/d7/8e9dd70bb51ac0bf4a54977ca0083563.gif">
 
+<p align="center">
+<div style="display: inline_block;margin-top: 30px"><br>
+  <img align="center" alt="joker" height="150" style="margin-top: -40px;border-radius:50px;"
+    src="https://i.pinimg.com/originals/1b/9f/c7/1b9fc7e4079c3835ab95c64fb46928f4.png">
+ </div>
+
+
+   <!--
+  <a href="https://komarev.com/ghpvc/?username=scjoaoantonio&label=Profile%20views&color=0e75b6&style=for-the-badge">
+    <img src="https://komarev.com/ghpvc/?username=scjoaoantonio&label=Profile%20views&color=0e75b6&style=for-the-badge" alt="Profile Views" />
+  </a>-->
+  <a href="https://www.linkedin.com/in/scjoaoantonio/">
+    <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge" />
+  </a>
+  <a href="https://www.twitch.tv/scjoaoantonio">
+    <img src="https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white" alt="Twitch Badge" />
+  </a>
+  <a href="https://instagram.com/scjoaoantonio">
+    <img src="https://img.shields.io/badge/-Instagram-%23ED1A79?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram Badge" />
+  </a>
+  <a href="mailto:joaoasccc@gmail.com">
+    <img src="https://img.shields.io/badge/-Gmail-%23EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail Badge" />
+  </a>
+</p>
+ 
 </h2>
 
 
@@ -25,14 +51,15 @@ I'm João Antônio, I study Computer Science and Web Development -->
 
 <h3>👉 Frontend Development</h3>
   <p align="center">
-    <img height='25em' src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
-    <img height='25em' src="https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
-    <img height='25em' src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" />
-    <img height='25em' src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
-    <img height='25em' src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
-    <img height='25em' src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white" />
-    <img height='25em' src="https://img.shields.io/badge/Wordpress-31A8FF?style=for-the-badge&logo=Wordpress&logoColor=white" />
+      <img height='25em' src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
+      <img height='25em' src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" />
+      <img height='25em' src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
+      <img height='25em' src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
+      <img height='25em' src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white" />
+      <img height='25em' src="https://img.shields.io/badge/Wordpress-31A8FF?style=for-the-badge&logo=Wordpress&logoColor=white" />
+      <img height='25em' src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" /> 
     <!-- <img height='25em' src="https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white" />
+      <img height='25em' src="https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
     <img height='25em' src="https://img.shields.io/badge/Android_Studio-3DDC84?style=for-the-badge&logo=android-studio&logoColor=white" />
     <img height='25em' src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" /> 
     <img height='25em' src="https://img.shields.io/badge/next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" />
@@ -95,33 +122,6 @@ I'm João Antônio, I study Computer Science and Web Development -->
 -->
 <br/>
 
-<div style="display: inline_block;margin-top: 30px"><br>
-  <img align="left" alt="joker" height="150" style="margin-top: -40px;border-radius:50px;"
-    src="https://i.pinimg.com/originals/1b/9f/c7/1b9fc7e4079c3835ab95c64fb46928f4.png">
- </div>
-
-<h1 font-weight="bold">
-  <!--<img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="100" />-->
-</h1>
-
-<p align="center">
-  <a href="https://komarev.com/ghpvc/?username=scjoaoantonio&label=Profile%20views&color=0e75b6&style=for-the-badge">
-    <img src="https://komarev.com/ghpvc/?username=scjoaoantonio&label=Profile%20views&color=0e75b6&style=for-the-badge" alt="Profile Views" />
-  </a>
-  <a href="https://www.linkedin.com/in/scjoaoantonio/">
-    <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge" />
-  </a>
-  <a href="https://www.twitch.tv/scjoaoantonio">
-    <img src="https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white" alt="Twitch Badge" />
-  </a>
-  <a href="https://instagram.com/scjoaoantonio">
-    <img src="https://img.shields.io/badge/-Instagram-%23ED1A79?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram Badge" />
-  </a>
-  <a href="mailto:joaoasccc@gmail.com">
-    <img src="https://img.shields.io/badge/-Gmail-%23EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail Badge" />
-  </a>
-</p>
- 
   
   
   
