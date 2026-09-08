@@ -30,9 +30,11 @@ I'm João Antônio, I study Computer Science and Web Development
   <a href="https://instagram.com/scjoaoantonio">
     <img src="https://img.shields.io/badge/-Instagram-%23ED1A79?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram Badge" />
   </a>
+       <!--
   <a href="mailto:joaoasccc@gmail.com">
     <img src="https://img.shields.io/badge/-Gmail-%23EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail Badge" />
   </a>
+  -->
 </p>
  
 </h2>
@@ -66,8 +68,9 @@ I'm João Antônio, I study Computer Science and Web Development
     <img height='25em' src="https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white" />
     <img height='25em' src="https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vuedotjs&logoColor=4FC08D" />
     <img height='25em' src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white" />-->
+ <!--
   </p>
-<!--
+
 <h3>👉 Backend Development ⚙️</h3>
   <p align="center">
     <img height='25em' src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
