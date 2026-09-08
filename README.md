@@ -5,9 +5,12 @@
 I'm João Antônio, I study Computer Science and Web Development 
 <img src="https://i.gifer.com/QqPl.gif">-->
 <br/>
+   
+ <!-- 
 <img width="30px"  src="https://i.pinimg.com/originals/8e/9d/d7/8e9dd70bb51ac0bf4a54977ca0083563.gif">
 <a target="_blank" href="https://scjoaoantonio.vercel.app/">my works</a>
 <img width="30px"  src="https://i.pinimg.com/originals/8e/9d/d7/8e9dd70bb51ac0bf4a54977ca0083563.gif">
+   -->
    
 <p align="center">
 <div style="display: inline_block;margin-top: 30px"><br>
@@ -34,12 +37,13 @@ I'm João Antônio, I study Computer Science and Web Development
  
 </h2>
 
-
+ <!-- 
 <h3>👉 Programming Languages</h3>
   <p align="center">
   <img height='25em' src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" />
   <img height='25em' src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" />
  <!-- <img height='25em' src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" />-->
+   <!-- 
   <img height='25em' src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue" />
   <img height='25em' src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" />
  </p>
@@ -83,6 +87,7 @@ I'm João Antônio, I study Computer Science and Web Development
     <img height='25em' src="https://img.shields.io/badge/Ruby_on_Rails-CC0000?style=for-the-badge&logo=ruby-on-rails&logoColor=white" />-- >
   </p>  
   -->
+   <!--
 <h3>👉 Other</h3>  
   <p align="center">
     <img height='25em' src="https://img.shields.io/badge/VSCode-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white" />
@@ -92,8 +97,11 @@ I'm João Antônio, I study Computer Science and Web Development
     <img height='25em' src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white" />
     <!-- <img height='25em' src="https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white" />
     <img height='25em' src="https://img.shields.io/badge/Unity-100000?style=for-the-badge&logo=unity&logoColor=white" />
-    <img height='25em' src="https://img.shields.io/badge/Amazon_AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white" />-->
-  </p>
+    <img height='25em' src="https://img.shields.io/badge/Amazon_AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white" />
+      </p>
+    -->
+
+
 <div align="center">
 <h1 font-weight="bold"></h1>
   <img align="center" alt="joker" height="200" style="border-radius:50px;"
