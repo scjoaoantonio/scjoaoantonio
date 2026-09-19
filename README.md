@@ -6,11 +6,11 @@ I'm João Antônio, I study Computer Science and Web Development
 <img src="https://i.gifer.com/QqPl.gif">-->
 <br/>
    
- <!-- 
+
 <img width="30px"  src="https://i.pinimg.com/originals/8e/9d/d7/8e9dd70bb51ac0bf4a54977ca0083563.gif">
 <a target="_blank" href="https://scjoaoantonio.vercel.app/">my works</a>
 <img width="30px"  src="https://i.pinimg.com/originals/8e/9d/d7/8e9dd70bb51ac0bf4a54977ca0083563.gif">
-   -->
+
    
 <p align="center">
 <div style="display: inline_block;margin-top: 30px"><br>
