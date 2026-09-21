@@ -7,7 +7,7 @@
 </h1>
 
 <a href="https://scjoaoantonio.vercel.app/" target="_blank">
-  <img src="https://img.shields.io/badge/🌐%20Portfólio-000?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/🌐%20Meu site-000?style=for-the-badge" />
 </a>
 
 </div>
